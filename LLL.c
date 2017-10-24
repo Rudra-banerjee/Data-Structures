@@ -149,7 +149,7 @@ else{
  	temp=next;
  }
  head=prev;
- 	printf("Reversed List is :\n");
+ 	printf("\nReversed List is :\n");
 	temp=head;
 	while(temp!=NULL)
 	{
